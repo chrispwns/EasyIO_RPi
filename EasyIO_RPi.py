@@ -45,7 +45,7 @@ class LED_Animate:
        :param repeat: number of times to repeat the sequence
        """
         # Check for optional fields
-        if kwargs is not None:
+        if kwargs
  
             # Reverse and repeating
             if 'reverse' in kwargs and kwargs["reverse"] == True\
